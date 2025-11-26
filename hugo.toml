@@ -1,4 +1,5 @@
-baseURL = 'https://abraham-armenta.github.io/valepage/'
+- name: Build
+run: hugo --minify --baseURL "https://abraham-armenta.github.io/valepage/"
 languageCode = 'en-us'
 title = "Mi sitio para Valentina"
 theme = "PaperMod"
