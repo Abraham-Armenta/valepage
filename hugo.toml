@@ -3,4 +3,9 @@ languageCode = 'en-us'
 title = "Mi sitio para Valentina"
 theme = "PaperMod"
 
+# Recomendado para GitHub Pages
+publishDir = "public"
+canonifyURLs = true
 
+# Opcional pero recomendable para PaperMod
+paginate = 5
