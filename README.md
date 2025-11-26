@@ -1,9 +1,3 @@
----
-title: "Para Valentina"
-date: 2025-11-25
-draft: false
----
-
 ## Esta es una pagina relacionada a la historia de Valentina
 
 ### Cuentos de un amor joven
