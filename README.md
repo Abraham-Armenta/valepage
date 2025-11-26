@@ -45,4 +45,4 @@ Años después, con la edad de Becca ya muy avanzada, llegó Eireann, con la pro
 
 ### Autora: Valentina
 
-![Vale](popou.jpg)
+![Vale](pupou.jpg)
